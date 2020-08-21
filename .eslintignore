@@ -1,0 +1,4 @@
+node_modules
+dist
+cdk.out
+src/node_modules
